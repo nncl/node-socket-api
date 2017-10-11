@@ -1,0 +1,19 @@
+{
+  "name": "node-socket-api",
+  "version": "1.0.0",
+  "description": ":)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nncl/node-socket-api.git"
+  },
+  "author": "nncl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nncl/node-socket-api/issues"
+  },
+  "homepage": "https://github.com/nncl/node-socket-api#readme"
+}
